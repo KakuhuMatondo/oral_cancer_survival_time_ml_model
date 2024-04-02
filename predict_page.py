@@ -3,6 +3,8 @@ import pickle
 import numpy as np
 
 
+
+
 def load_model():
     with open('model.pkl', 'rb') as file:
         d = pickle.load(file)
