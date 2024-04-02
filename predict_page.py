@@ -1,6 +1,9 @@
 import streamlit as st
 import pickle
 import sklearn
+from sklearn.model_selection import train_test_split
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.metrics import mean_absolute_error,accuracy_score,classification_report
 import numpy as np
 
 
