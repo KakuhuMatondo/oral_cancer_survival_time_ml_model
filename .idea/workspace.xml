@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54b44785-27a1-41a7-9b53-86e08257be24" name="Changes" comment="Add streamlit app file">
-      <change afterPath="$PROJECT_DIR$/sklearn/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/WTF_Data_Science_and_AI_Group_B_Group_5_Project_2 (2)-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WTF_Data_Science_and_AI_Group_B_Group_5_Project_2 (2).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/WTF_Data_Science_and_AI_Group_B_Group_5_Project_2 (2).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sklearn/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -72,7 +76,7 @@
       <updated>1711733241517</updated>
       <workItem from="1711733258348" duration="811000" />
       <workItem from="1711796141343" duration="12278000" />
-      <workItem from="1712046350731" duration="1186000" />
+      <workItem from="1712046350731" duration="3945000" />
     </task>
     <task id="LOCAL-00001" summary="Add streamlit app file">
       <option name="closed" value="true" />
@@ -98,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712046730346</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add streamlit app file">
+      <option name="closed" value="true" />
+      <created>1712047705138</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712047705138</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add streamlit app file">
+      <option name="closed" value="true" />
+      <created>1712047903196</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712047903196</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +147,11 @@
           <url>notebook://C:/Users/tekno asya/Downloads/WTF_Data_Science_and_AI_Group_B_Group_5_Project_2 (2).ipynb</url>
           <line>185</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/tekno asya/PycharmProjects/WTFModelDeploymentGroup5/WTF_Data_Science_and_AI_Group_B_Group_5_Project_2 (2).ipynb</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
