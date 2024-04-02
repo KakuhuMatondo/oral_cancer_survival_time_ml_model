@@ -1,8 +1,7 @@
 import streamlit as st
 import pickle
-import numpy as np
-import pandas as pd
 import sklearn
+import numpy as np
 
 
 def load_model():
@@ -26,7 +25,7 @@ def show_predict_page():
     gender = st.radio("Gender", Gender)
     tumorstage = st.selectbox("Tumor Stage", TumorStage)
     age = st.slider("Age", 10, 90, 1)
-    genemutations = st.number_input("Number of Gene Mutations", 0, 11000,step=1,
+    genemutations = st.number_input("Number of Gene Mutations", 0, 11000, step=1,
                                     help="Number of Mutated Genes Permitted 0 - 11,000")
     ok = st.button("Calculated Estimated Survival time in days")
     if ok:
@@ -34,12 +33,11 @@ def show_predict_page():
 
         # Create feature vector
 
-        feature_list=[gender_encoded, age, genemutations, tumorstage]
+        feature_list = [gender_encoded, age, genemutations, tumorstage]
         print(feature_list)
-        f = np.array(feature_list,dtype=float).reshape(1, -1)
+        f = np.array(feature_list, dtype=float).reshape(1, -1)
 
         # Make prediction
         prediction = model.predict(f)
         formatted_prediction = "{:,.0f}".format(prediction[0])
         st.subheader(f"The estimated number of survival days is {formatted_prediction} ")
-

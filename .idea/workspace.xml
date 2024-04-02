@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54b44785-27a1-41a7-9b53-86e08257be24" name="Changes" comment="Add streamlit app file">
+      <change afterPath="$PROJECT_DIR$/sklearn/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streamlit_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict_page.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,7 @@
       <updated>1711733241517</updated>
       <workItem from="1711733258348" duration="811000" />
       <workItem from="1711796141343" duration="12278000" />
-      <workItem from="1712046350731" duration="149000" />
+      <workItem from="1712046350731" duration="1186000" />
     </task>
     <task id="LOCAL-00001" summary="Add streamlit app file">
       <option name="closed" value="true" />
@@ -81,7 +82,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711823526188</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add streamlit app file">
+      <option name="closed" value="true" />
+      <created>1712046554193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712046554193</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add streamlit app file">
+      <option name="closed" value="true" />
+      <created>1712046730346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712046730346</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
